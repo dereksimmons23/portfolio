@@ -3,9 +3,9 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
+    "source.fixAll.eslint": "explicit"
   },
-  
+
   // Tailwind settings
   "editor.quickSuggestions": {
     "strings": true
@@ -14,17 +14,17 @@
     "typescript": "javascript",
     "typescriptreact": "javascript"
   },
-  
+
   // GitLens settings
   "gitlens.codeLens.enabled": false,
   "gitlens.currentLine.enabled": true,
   "gitlens.hovers.currentLine.over": "line",
-  
+
   // File associations
   "files.associations": {
     "*.css": "tailwindcss"
   },
-  
+
   // TypeScript settings
   "typescript.tsdk": "node_modules/typescript/lib",
   "typescript.enablePromptUseWorkspaceTsdk": true
