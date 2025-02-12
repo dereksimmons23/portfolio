@@ -1,4 +1,4 @@
-# Derek Simmons Portfolio
+# Derek Simmons
 
 Professional portfolio site showcasing experience in digital transformation, AI innovation, and team development.
 
